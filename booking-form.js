@@ -129,6 +129,6 @@ Phone: ${data.get("phone")}
 
 Thank you.`;
 
-    window.open(`https://wa.me/919089081111?text=${encodeURIComponent(message)}`, "_blank", "noopener,noreferrer");
+    window.open(`https://wa.me/918830612287?text=${encodeURIComponent(message)}`, "_blank", "noopener,noreferrer");
   });
 })();
